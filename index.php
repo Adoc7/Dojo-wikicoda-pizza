@@ -18,7 +18,7 @@
       <img id="logo"src="images/logo2.png" alt="logo">
       <ul>
         <li><a href="index.php">Accueil</a></li>
-        <li><a href="page2.php">Liste commandes</a></li>
+        <li><a href="script.php">Liste commandes</a></li>
       </ul>
       <img id="strap"src="images/bg_top.jpg">
     </header>

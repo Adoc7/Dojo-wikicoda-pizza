@@ -142,3 +142,14 @@ h1{
   width: 30%;
   margin: -130px auto;
 }
+.list {
+  width: 50%;
+  margin: 200px auto;
+  background-image: url("images/bg1.jpeg");
+  filter: brightness(150%);
+  text-align: center;
+}
+
+.list p{
+  color: white;
+}
